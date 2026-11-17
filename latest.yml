@@ -1,8 +1,8 @@
-version: 0.0.0
+version: 0.0.1
 files:
   - url: I-Want-Duo-Setup.exe
-    sha512: iY6MHKpee5/zYAtXOT6FsIxAwBYbnSEnezFjqOIwvwd25e96u7T/3yhZsiC/0EanTVbi2LnrsgcKC+2JVGP3eA==
-    size: 103655245
+    sha512: Ai31oVPIsP05v0bGZ1dJ7pBaeJOeNzJpVaIyl0WmvqcjCbEWud297C9KYTdTqKpIpmtGTsov3b6Q2jQfhmGuog==
+    size: 103655238
 path: I-Want-Duo-Setup.exe
-sha512: iY6MHKpee5/zYAtXOT6FsIxAwBYbnSEnezFjqOIwvwd25e96u7T/3yhZsiC/0EanTVbi2LnrsgcKC+2JVGP3eA==
-releaseDate: '2026-11-16T23:34:10.808Z'
+sha512: Ai31oVPIsP05v0bGZ1dJ7pBaeJOeNzJpVaIyl0WmvqcjCbEWud297C9KYTdTqKpIpmtGTsov3b6Q2jQfhmGuog==
+releaseDate: '2026-11-16T23:56:40.193Z'
